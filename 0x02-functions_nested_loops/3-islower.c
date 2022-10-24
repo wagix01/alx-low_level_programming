@@ -5,7 +5,7 @@
  * check for lowercase charather
  * @c:  letter
  *
- * Return: Always 0 (Success)  
+ * Return: Always 0 (Success)
  */
 
 int _islower(int c)
